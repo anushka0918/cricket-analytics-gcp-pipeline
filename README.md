@@ -64,6 +64,8 @@ Cricbuzz API → Python ETL → Cloud Storage → Cloud Functions → Dataflow �
 - **Real-time Updates**: Live data refresh for current match statistics
 - **Business Metrics**: KPIs and performance indicators for stakeholders
 
+<img width="988" height="393" alt="image" src="https://github.com/user-attachments/assets/eedb1e89-8521-4d3c-a317-3a2576c84688" />
+
 ## 🚀 Getting Started
 
 ### **Prerequisites**
